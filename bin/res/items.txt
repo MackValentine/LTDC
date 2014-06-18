@@ -1,0 +1,59 @@
+id  #  Nom  #  Description  #  icone_x  #  icone_y  #  Force  #  Endurance  #  Sagesse  #  Esprit  #  Prix  #  Heal  #  Type du sort  #  Type
+ #  #  #  #  #  #  #  #  #  #  #  # 
+Rien ne sera lu jusqu'à cette ligne.<#> #  #  #  #  #  #  #  #  #  #  #  # 
+0 #  Tout prendre  #  Recupere tout les objets  # 0 # 0 # 0 # 0 # 0 # 0 # 0 # 0 # -1 #  Item
+1 #  Dague  #    # 0 # 1 # 6 # 0 # 5 # 0 # 20 # 0 # -1 #  Dagger
+2 #  Dague Magik  #    # 0 # 1 # 8 # 0 # 6 # 0 # 40 # 0 # -1 #  Dagger
+3 #  Kukri  #    # 1 # 1 # 10 # 0 # 8 # 0 # 60 # 0 # -1 #  Dagger
+4 #  Assassine  #    # 1 # 1 # 12 # 0 # 10 # 0 # 120 # 0 # -1 #  Dagger
+5 #  Organix  #    # 1 # 1 # 14 # 0 # 13 # 0 # 180 # 0 # -1 #  Dagger
+6 #  Monarch  #    # 1 # 1 # 17 # 0 # 17 # 0 # 230 # 0 # -1 #  Dagger
+7 #  Hachette  #    # 2 # 1 # 10 # 0 # 0 # 0 # 30 # 0 # -1 #  Axe
+8 #  Tomahawk  #    # 2 # 1 # 16 # 0 # 0 # 0 # 60 # 0 # -1 #  Axe
+9 #  Fendeuse  #    # 3 # 1 # 21 # 0 # 0 # 0 # 120 # 0 # -1 #  Axe
+10 #  Francisque  #    # 3 # 1 # 27 # 0 # 0 # 0 # 200 # 0 # -1 #  Axe
+11 #  Glaive  #    # 4 # 1 # 7 # 0 # 0 # 0 # 40 # 0 # -1 #  Sword
+12 #  Flamberge  #    # 5 # 1 # 12 # 3 # 0 # 0 # 70 # 0 # -1 #  Sword
+13 #  Sanguine  #    # 5 # 1 # 15 # 5 # 0 # 0 # 120 # 0 # -1 #  Sword
+14 #  Guardian  #    # 4 # 1 # 19 # 8 # 0 # 0 # 190 # 0 # -1 #  Sword
+15 #  Ragnarock  #    # 5 # 1 # 22 # 11 # 0 # 0 # 240 # 0 # -1 #  Sword
+16 #  Canne  #    # 6 # 1 # 4 # 0 # 8 # 0 # 20 # 0 # -1 #  Staff
+17 #  Sceptre  #    # 7 # 1 # 6 # 0 # 12 # 0 # 80 # 0 # -1 #  Staff
+18 #  Masse  #    # 7 # 1 # 7 # 0 # 16 # 0 # 130 # 0 # -1 #  Staff
+19 #  Frapeterre  #    # 7 # 1 # 10 # 0 # 23 # 0 # 180 # 0 # -1 #  Staff
+20 #  Mandragore  #    # 7 # 1 # 12 # 0 # 28 # 0 # 270 # 0 # -1 #  Staff
+21 #  Gant de cuir  #    # 12 # 1 # 9 # 0 # 0 # 0 # 45 # 0 # -1 #  Poing
+22 #  Gant d'acier  #    # 12 # 1 # 13 # 0 # 0 # 0 # 70 # 0 # -1 #  Poing
+23 #  Arc court  #    # 10 # 1 # 4 # 0 # 0 # 0 # 55 # 0 # -1 #  Bow
+24 #  Sagittaire  #    # 10 # 1 # 7 # 0 # 0 # 0 # 90 # 0 # -1 #  Bow
+25 #  Chasseur  #    # 11 # 1 # 10 # 0 # 0 # 0 # 150 # 0 # -1 #  Bow
+26 #  SevenSky  #    # 11 # 1 # 12 # 0 # 0 # 0 # 205 # 0 # -1 #  Bow
+27 #  Pique  #    # 8 # 1 # 5 # 3 # 0 # 0 # 70 # 0 # -1 #  Spear
+28 #  Bardiche  #    # 8 # 1 # 9 # 5 # 0 # 0 # 120 # 0 # -1 #  Spear
+29 #  Hallebarde  #    # 9 # 1 # 11 # 8 # 0 # 0 # 180 # 0 # -1 #  Spear
+30 #  Obelisque  #    # 9 # 1 # 13 # 10 # 0 # 0 # 225 # 0 # -1 #  Spear
+31 #  Veste  #    # 0 # 2 # 0 # 3 # 0 # 3 # 10 # 0 # -1 #  Armor
+32 #  Brigandine  #    # 1 # 2 # 0 # 4 # 0 # 5 # 30 # 0 # -1 #  Armor
+33 #  Cuirasse  #    # 2 # 2 # 0 # 6 # 0 # 0 # 70 # 0 # -1 #  Armor
+34 #  Cotte d'acier  #    # 3 # 2 # 0 # 7 # 0 # 0 # 110 # 0 # -1 #  Armor
+35 #  Plaque  #    # 4 # 2 # 0 # 9 # 0 # 0 # 160 # 0 # -1 #  Armor
+36 #  Peytral  #    # 5 # 2 # 0 # 11 # 0 # 0 # 280 # 0 # -1 #  Armor
+37 #  Soierie  #    # 6 # 2 # 0 # 3 # 0 # 8 # 60 # 0 # -1 #  Armor
+38 #  Toge Magus  #    # 7 # 2 # 0 # 4 # 0 # 11 # 150 # 0 # -1 #  Armor
+39 #  Corde  #    # 5 # 0 # 0 # 0 # 0 # 0 # 50 # 0 # -1 #  Corde
+40 #  Potion  #  Hp+50  # 1 # 0 # 0 # 0 # 0 # 0 # 20 # 50 # -1 #  Item
+41 #  Potion+  #  Hp+100  # 2 # 0 # 0 # 0 # 0 # 0 # 50 # 100 # -1 #  Item
+42 #  PotionX  #  Hp+200  # 3 # 0 # 0 # 0 # 0 # 0 # 80 # 200 # -1 #  Item
+43 #  Potion Max  #  Soigne tout les Hp  # 4 # 0 # 0 # 0 # 0 # 0 # 150 # 9999 # -1 #  Item
+44 #  Fireball  #  Lance une boule de feu  # 0 # 3 # 0 # 0 # 0 # 0 # 50 # 0 # 0 #  Spell
+45 #  Soin  #  Soigne le lanceur  # 1 # 3 # 0 # 0 # 0 # 0 # 30 # 0 # 2 #  Spell
+46 #  Foudre  #  Lance une boule de feu  # 2 # 3 # 0 # 0 # 0 # 0 # 50 # 0 # 1 #  Spell
+47 #  Pomme  #  # 6 # 0 # 0 # 0 # 0 # 0 # 25 # 0 # 6 #  Food
+48 #  Couvercle  #  # 0 # 4 # 0 # 2 # 0 # 0 # 30 # 0 # -1 #  Unusable
+49 #  Rondache  #  # 0 # 4 # 0 # 4 # 0 # 0 # 60 # 0 # -1 #  Unusable
+50 #  Ecu  #  # 1 # 4 # 0 # 5 # 0 # 0 # 90 # 0 # -1 #  Unusable
+51 #  Pavois  #  # 1 # 4 # 0 # 7 # 0 # 0 # 120 # 0 # -1 #  Unusable
+52 #  Templier  #  # 2 # 4 # 0 # 8 # 0 # 0 # 180 # 0 # -1 #  Unusable
+53 #  Forciseur  #  # 0 # 5 # 2 # 0 # 0 # 0 # 180 # 0 # -1 #  Unusable
+54 #  Arsenal  #  # 0 # 5 # 3 # 0 # 0 # 0 # 180 # 0 # -1 #  Unusable
+55 #  Angelarme  #  # 0 # 5 # 5 # 0 # 0 # 0 # 180 # 0 # -1 #  Unusable
